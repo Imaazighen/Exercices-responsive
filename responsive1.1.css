@@ -1,0 +1,61 @@
+*{
+    padding: 0%;    margin: 0%;
+}
+
+#degrade{
+    display: flex;
+    font-size: 50px;
+    text-align: center;
+    border: solid 1px black;
+    height: 765px;
+    width: 1000x;
+    
+ 
+}
+
+.A{
+    background-color: RED;
+    flex: 1 1 0;
+}
+
+
+.B{
+    background-color: blue;
+    flex: 1 1 0;
+}
+
+
+.C{
+    background-color: green;
+    flex: 1 1 0;
+}
+
+
+.D{
+    background-color: salmon;
+    flex: 1 1 0;
+}
+
+
+.E{
+    background-color: grey;
+    flex: 1 1 0;
+}
+
+
+.F{
+    background-color: greenyellow;
+    flex: 1 1 0;
+}
+
+
+.G{
+    background-color: orangered;
+    flex: 1 1 0;
+}
+
+
+.H{
+    background-color: yellow;
+    flex: 1 1 0;
+}
